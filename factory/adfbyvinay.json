@@ -1,0 +1,15 @@
+{
+	"name": "adfbyvinay",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1f5aa5e2-02bc-4b97-a9da-7ef4be51a9d8",
+		"tenantId": "45fad149-24f1-479b-a937-c0edc9b0cfc1"
+	}
+}
